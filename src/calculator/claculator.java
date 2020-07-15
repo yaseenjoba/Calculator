@@ -12,7 +12,7 @@ import javax.swing.JTextField;
  * @author yasee
  */
 public class claculator extends javax.swing.JFrame {
-
+    //adding comment!
     /**
      * Creates new form claculator
      */
